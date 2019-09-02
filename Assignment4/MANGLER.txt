@@ -1,0 +1,13 @@
+OK - Spawn enemy ved start point
+
+Lav tårn
+
+Få tårn til at skyde
+
+Få tårn til kun at skyde hvis enemy indenfor radius
+
+Tekst hvis enemy vinder
+
+OK - Spawn bestemt antal random enemy
+
+Tekst hvis alle enemy skydes
